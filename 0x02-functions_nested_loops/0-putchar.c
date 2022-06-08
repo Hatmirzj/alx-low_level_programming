@@ -1,5 +1,10 @@
 #include "stdio.h"
 
+/**
+ * This shall print "_putchar"
+ *
+ * Return: 0
+ */
 int main(void)
 {
 	putchar('_');
@@ -11,5 +16,5 @@ int main(void)
 	putchar('a');
 	putchar('r');
 	putchar('\n');
-         return (0);
+	return (0);
 }
