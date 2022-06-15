@@ -2,6 +2,7 @@
 #define MAIN_H_INCLUDE
 
 int _putchar(char);
+void print_rev(char *s);
 void print_alphabet(void);
 void _puts(char *str);
 void print_alphabet_x10(void);
